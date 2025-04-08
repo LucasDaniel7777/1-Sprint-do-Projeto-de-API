@@ -11,3 +11,20 @@ Dia 25/03/2025
 Demos início ao backlog do projeto, e foi criada a planilha dos dados referente ao roteiro das sprints que serão feitas no decorrer do semestre, concomitantemente com as atualizações dos códigos referentes aos dados, direcionando as sprints.
 
 
+
+Dia 26/03/2025
+Neste dia, terminamos de fazer a primeira sprint no Backlog e já começamos a escrever as futuras Sprints, contendo as próximas etapas que faremos no projeto, como a inclusão de alguns dados estatísticos que comprovem e que dê uma maior relevância ao trabalho. Ademais, acessamos o programa Power BI, para compreender como ele funcionava e, ulterior a isso, realizarmos nosso projeto. Após terminarmos o Backlog, encetamos a criação dos esboços dos gráficos no aplicativo Canva, incluindo algumas medidas de dispersões nos gráficos tais como: variância, média e amplitude
+da conjuntura dos dados de exportações de São Paulo.
+
+Dia 1/04/2025
+Neste dia, realizamos as devidas correções no backlog e tentamos terminar os códigos do projeto, conquanto, 
+
+
+
+![image](https://github.com/user-attachments/assets/64730f06-ea50-4088-ab9f-69668785583b)
+
+![image](https://github.com/user-attachments/assets/6e2394a2-d47e-4a4f-b75c-60dc5be3873b)
+
+![image](https://github.com/user-attachments/assets/50605a25-c468-48f3-9e8d-33f889845240)
+
+![image](https://github.com/user-attachments/assets/274c2bba-aca8-4089-8685-21551ccac104)
